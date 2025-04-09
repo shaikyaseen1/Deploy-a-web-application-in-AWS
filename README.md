@@ -145,9 +145,6 @@ JavaScript for interactivity
 
 📦 Code:
 
-html
-Copy
-Edit
 <!DOCTYPE html>
 <html lang="en">
 <head>
